@@ -46,5 +46,7 @@ with mlflow.start_run():
   mlflow.log_param('parameter name', 'value')
   mlflow.log_metric('metric name', 1)
 
+<img width="1797" alt="Screenshot 2025-03-27 at 9 02 30 PM" src="https://github.com/user-attachments/assets/0f41add7-143e-44ee-8d10-c8ec6f5e0caf" />
+
 
 
