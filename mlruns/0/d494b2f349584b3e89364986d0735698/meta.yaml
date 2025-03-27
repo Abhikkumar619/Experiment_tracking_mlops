@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/d494b2f349584b3e89364986d0735698/artifacts
+deleted_time: 1743039906096
+end_time: 1743037420028
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d494b2f349584b3e89364986d0735698
+run_name: valuable-kit-47
+run_uuid: d494b2f349584b3e89364986d0735698
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743037418812
+status: 4
+tags: []
+user_id: abishekkumaryadav

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3567d1805074440e8e474c98af5e6496/artifacts
+end_time: 1743039125292
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3567d1805074440e8e474c98af5e6496
+run_name: silent-cow-683
+run_uuid: 3567d1805074440e8e474c98af5e6496
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743039125017
+status: 3
+tags: []
+user_id: abishekkumaryadav

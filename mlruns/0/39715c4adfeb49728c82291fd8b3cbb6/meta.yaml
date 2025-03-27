@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/39715c4adfeb49728c82291fd8b3cbb6/artifacts
+end_time: 1743040308573
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39715c4adfeb49728c82291fd8b3cbb6
+run_name: dazzling-goose-191
+run_uuid: 39715c4adfeb49728c82291fd8b3cbb6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743040308298
+status: 3
+tags: []
+user_id: abishekkumaryadav

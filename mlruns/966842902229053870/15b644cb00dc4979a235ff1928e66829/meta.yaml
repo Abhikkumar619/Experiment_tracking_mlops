@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/966842902229053870/15b644cb00dc4979a235ff1928e66829/artifacts
+end_time: 1743051420434
+entry_point_name: ''
+experiment_id: '966842902229053870'
+lifecycle_stage: active
+run_id: 15b644cb00dc4979a235ff1928e66829
+run_name: dazzling-squid-439
+run_uuid: 15b644cb00dc4979a235ff1928e66829
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743051416752
+status: 3
+tags: []
+user_id: abishekkumaryadav

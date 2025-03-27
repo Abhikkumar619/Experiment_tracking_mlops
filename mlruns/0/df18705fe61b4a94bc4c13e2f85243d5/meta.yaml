@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/df18705fe61b4a94bc4c13e2f85243d5/artifacts
+end_time: 1742992660555
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df18705fe61b4a94bc4c13e2f85243d5
+run_name: nosy-wolf-357
+run_uuid: df18705fe61b4a94bc4c13e2f85243d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742992660535
+status: 3
+tags: []
+user_id: abishekkumaryadav

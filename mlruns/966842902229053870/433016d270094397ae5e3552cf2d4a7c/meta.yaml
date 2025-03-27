@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/966842902229053870/433016d270094397ae5e3552cf2d4a7c/artifacts
+end_time: 1743040596218
+entry_point_name: ''
+experiment_id: '966842902229053870'
+lifecycle_stage: active
+run_id: 433016d270094397ae5e3552cf2d4a7c
+run_name: amazing-goose-245
+run_uuid: 433016d270094397ae5e3552cf2d4a7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743040595992
+status: 3
+tags: []
+user_id: abishekkumaryadav

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d0c5538c934c4ff7922759b47191724f/artifacts
+end_time: 1742991772220
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d0c5538c934c4ff7922759b47191724f
+run_name: adorable-perch-628
+run_uuid: d0c5538c934c4ff7922759b47191724f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742991772202
+status: 3
+tags: []
+user_id: abishekkumaryadav

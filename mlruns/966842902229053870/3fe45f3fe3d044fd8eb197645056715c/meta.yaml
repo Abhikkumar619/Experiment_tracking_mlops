@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/966842902229053870/3fe45f3fe3d044fd8eb197645056715c/artifacts
+end_time: 1743051041014
+entry_point_name: ''
+experiment_id: '966842902229053870'
+lifecycle_stage: active
+run_id: 3fe45f3fe3d044fd8eb197645056715c
+run_name: receptive-gnat-144
+run_uuid: 3fe45f3fe3d044fd8eb197645056715c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743051040767
+status: 4
+tags: []
+user_id: abishekkumaryadav

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f60d44366d0f4b99bfcd25afd11c8010/artifacts
+end_time: 1743040488377
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f60d44366d0f4b99bfcd25afd11c8010
+run_name: aged-ray-17
+run_uuid: f60d44366d0f4b99bfcd25afd11c8010
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743040488100
+status: 3
+tags: []
+user_id: abishekkumaryadav
