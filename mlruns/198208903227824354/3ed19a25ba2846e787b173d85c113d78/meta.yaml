@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/198208903227824354/3ed19a25ba2846e787b173d85c113d78/artifacts
+end_time: 1743087970811
+entry_point_name: ''
+experiment_id: '198208903227824354'
+lifecycle_stage: active
+run_id: 3ed19a25ba2846e787b173d85c113d78
+run_name: invincible-shoat-631
+run_uuid: 3ed19a25ba2846e787b173d85c113d78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743087970795
+status: 3
+tags: []
+user_id: abishekkumaryadav

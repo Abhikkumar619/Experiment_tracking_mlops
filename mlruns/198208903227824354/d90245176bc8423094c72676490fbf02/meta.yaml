@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/198208903227824354/d90245176bc8423094c72676490fbf02/artifacts
+end_time: 1743088564156
+entry_point_name: ''
+experiment_id: '198208903227824354'
+lifecycle_stage: active
+run_id: d90245176bc8423094c72676490fbf02
+run_name: nebulous-flea-403
+run_uuid: d90245176bc8423094c72676490fbf02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743088564139
+status: 3
+tags: []
+user_id: abishekkumaryadav

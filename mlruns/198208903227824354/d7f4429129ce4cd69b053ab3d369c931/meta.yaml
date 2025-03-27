@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/198208903227824354/d7f4429129ce4cd69b053ab3d369c931/artifacts
+end_time: 1743088564131
+entry_point_name: ''
+experiment_id: '198208903227824354'
+lifecycle_stage: active
+run_id: d7f4429129ce4cd69b053ab3d369c931
+run_name: bedecked-conch-982
+run_uuid: d7f4429129ce4cd69b053ab3d369c931
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743088564114
+status: 3
+tags: []
+user_id: abishekkumaryadav

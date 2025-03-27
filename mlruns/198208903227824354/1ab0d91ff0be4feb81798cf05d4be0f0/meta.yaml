@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/198208903227824354/1ab0d91ff0be4feb81798cf05d4be0f0/artifacts
+end_time: 1743087776059
+entry_point_name: ''
+experiment_id: '198208903227824354'
+lifecycle_stage: active
+run_id: 1ab0d91ff0be4feb81798cf05d4be0f0
+run_name: glamorous-ant-356
+run_uuid: 1ab0d91ff0be4feb81798cf05d4be0f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743087776044
+status: 3
+tags: []
+user_id: abishekkumaryadav

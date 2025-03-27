@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/198208903227824354/dd6a90316441457bb632f920cf8ce091/artifacts
+end_time: 1743087776013
+entry_point_name: ''
+experiment_id: '198208903227824354'
+lifecycle_stage: active
+run_id: dd6a90316441457bb632f920cf8ce091
+run_name: rogue-jay-154
+run_uuid: dd6a90316441457bb632f920cf8ce091
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743087775997
+status: 3
+tags: []
+user_id: abishekkumaryadav

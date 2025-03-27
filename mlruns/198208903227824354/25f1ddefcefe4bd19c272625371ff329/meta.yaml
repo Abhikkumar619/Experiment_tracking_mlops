@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/198208903227824354/25f1ddefcefe4bd19c272625371ff329/artifacts
+end_time: 1743087776083
+entry_point_name: ''
+experiment_id: '198208903227824354'
+lifecycle_stage: active
+run_id: 25f1ddefcefe4bd19c272625371ff329
+run_name: agreeable-stork-492
+run_uuid: 25f1ddefcefe4bd19c272625371ff329
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743087776067
+status: 3
+tags: []
+user_id: abishekkumaryadav

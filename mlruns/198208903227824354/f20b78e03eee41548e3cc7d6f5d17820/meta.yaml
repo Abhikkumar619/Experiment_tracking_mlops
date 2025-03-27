@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/198208903227824354/f20b78e03eee41548e3cc7d6f5d17820/artifacts
+end_time: 1743088564001
+entry_point_name: ''
+experiment_id: '198208903227824354'
+lifecycle_stage: active
+run_id: f20b78e03eee41548e3cc7d6f5d17820
+run_name: invincible-stoat-822
+run_uuid: f20b78e03eee41548e3cc7d6f5d17820
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743088563984
+status: 3
+tags: []
+user_id: abishekkumaryadav

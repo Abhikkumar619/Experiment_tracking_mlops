@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/198208903227824354/202c8d55198d49758be81feb079d5961/artifacts
+end_time: 1743087397398
+entry_point_name: ''
+experiment_id: '198208903227824354'
+lifecycle_stage: active
+run_id: 202c8d55198d49758be81feb079d5961
+run_name: charming-mole-233
+run_uuid: 202c8d55198d49758be81feb079d5961
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743087392565
+status: 3
+tags: []
+user_id: abishekkumaryadav

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/198208903227824354/445b0e309f724e9a8d204e263f2e5efc/artifacts
+end_time: 1743088330628
+entry_point_name: ''
+experiment_id: '198208903227824354'
+lifecycle_stage: active
+run_id: 445b0e309f724e9a8d204e263f2e5efc
+run_name: bouncy-bug-185
+run_uuid: 445b0e309f724e9a8d204e263f2e5efc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743088330612
+status: 3
+tags: []
+user_id: abishekkumaryadav

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/198208903227824354/af0d05e7b1a446ff9585d9419740703c/artifacts
+end_time: 1743087970787
+entry_point_name: ''
+experiment_id: '198208903227824354'
+lifecycle_stage: active
+run_id: af0d05e7b1a446ff9585d9419740703c
+run_name: casual-newt-971
+run_uuid: af0d05e7b1a446ff9585d9419740703c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743087970771
+status: 3
+tags: []
+user_id: abishekkumaryadav

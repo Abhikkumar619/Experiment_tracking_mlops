@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/198208903227824354/45c03f70e89a4cc7aa658e18a04eacfb/artifacts
+end_time: 1743088330485
+entry_point_name: ''
+experiment_id: '198208903227824354'
+lifecycle_stage: active
+run_id: 45c03f70e89a4cc7aa658e18a04eacfb
+run_name: unequaled-mole-382
+run_uuid: 45c03f70e89a4cc7aa658e18a04eacfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743088330469
+status: 3
+tags: []
+user_id: abishekkumaryadav

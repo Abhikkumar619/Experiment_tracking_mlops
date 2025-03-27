@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/198208903227824354/d0fc084d49294227a9ab0e0e722803d4/artifacts
+end_time: 1743088564181
+entry_point_name: ''
+experiment_id: '198208903227824354'
+lifecycle_stage: active
+run_id: d0fc084d49294227a9ab0e0e722803d4
+run_name: amazing-squid-135
+run_uuid: d0fc084d49294227a9ab0e0e722803d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743088564164
+status: 3
+tags: []
+user_id: abishekkumaryadav

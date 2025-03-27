@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/198208903227824354/beff88f0aac44a8fab53b0db3da1564f/artifacts
+end_time: 1743087970763
+entry_point_name: ''
+experiment_id: '198208903227824354'
+lifecycle_stage: active
+run_id: beff88f0aac44a8fab53b0db3da1564f
+run_name: polite-loon-22
+run_uuid: beff88f0aac44a8fab53b0db3da1564f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743087970747
+status: 3
+tags: []
+user_id: abishekkumaryadav

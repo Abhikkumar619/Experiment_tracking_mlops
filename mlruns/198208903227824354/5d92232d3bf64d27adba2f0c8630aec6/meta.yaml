@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/198208903227824354/5d92232d3bf64d27adba2f0c8630aec6/artifacts
+end_time: 1743088330461
+entry_point_name: ''
+experiment_id: '198208903227824354'
+lifecycle_stage: active
+run_id: 5d92232d3bf64d27adba2f0c8630aec6
+run_name: languid-fish-7
+run_uuid: 5d92232d3bf64d27adba2f0c8630aec6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743088330444
+status: 3
+tags: []
+user_id: abishekkumaryadav

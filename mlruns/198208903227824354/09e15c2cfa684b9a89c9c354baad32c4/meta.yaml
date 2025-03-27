@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/198208903227824354/09e15c2cfa684b9a89c9c354baad32c4/artifacts
+end_time: 1743087291087
+entry_point_name: ''
+experiment_id: '198208903227824354'
+lifecycle_stage: active
+run_id: 09e15c2cfa684b9a89c9c354baad32c4
+run_name: capricious-bat-247
+run_uuid: 09e15c2cfa684b9a89c9c354baad32c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743087291073
+status: 4
+tags: []
+user_id: abishekkumaryadav

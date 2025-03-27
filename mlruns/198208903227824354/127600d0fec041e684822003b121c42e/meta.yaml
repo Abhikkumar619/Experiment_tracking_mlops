@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/198208903227824354/127600d0fec041e684822003b121c42e/artifacts
+end_time: 1743087970859
+entry_point_name: ''
+experiment_id: '198208903227824354'
+lifecycle_stage: active
+run_id: 127600d0fec041e684822003b121c42e
+run_name: sassy-seal-777
+run_uuid: 127600d0fec041e684822003b121c42e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743087970843
+status: 3
+tags: []
+user_id: abishekkumaryadav

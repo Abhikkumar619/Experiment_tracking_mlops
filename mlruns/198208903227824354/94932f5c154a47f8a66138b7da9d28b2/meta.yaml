@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/198208903227824354/94932f5c154a47f8a66138b7da9d28b2/artifacts
+end_time: 1743087970897
+entry_point_name: ''
+experiment_id: '198208903227824354'
+lifecycle_stage: active
+run_id: 94932f5c154a47f8a66138b7da9d28b2
+run_name: bustling-horse-584
+run_uuid: 94932f5c154a47f8a66138b7da9d28b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743087965995
+status: 4
+tags: []
+user_id: abishekkumaryadav

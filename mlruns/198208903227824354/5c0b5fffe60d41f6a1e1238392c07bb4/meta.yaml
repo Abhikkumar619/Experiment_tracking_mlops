@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/198208903227824354/5c0b5fffe60d41f6a1e1238392c07bb4/artifacts
+end_time: 1743087776138
+entry_point_name: ''
+experiment_id: '198208903227824354'
+lifecycle_stage: active
+run_id: 5c0b5fffe60d41f6a1e1238392c07bb4
+run_name: traveling-sow-723
+run_uuid: 5c0b5fffe60d41f6a1e1238392c07bb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743087771146
+status: 4
+tags: []
+user_id: abishekkumaryadav

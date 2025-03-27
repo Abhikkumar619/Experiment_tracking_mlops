@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/198208903227824354/b206479a687644f983d91fea237df1f8/artifacts
+end_time: 1743088564205
+entry_point_name: ''
+experiment_id: '198208903227824354'
+lifecycle_stage: active
+run_id: b206479a687644f983d91fea237df1f8
+run_name: likeable-goat-745
+run_uuid: b206479a687644f983d91fea237df1f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743088564189
+status: 3
+tags: []
+user_id: abishekkumaryadav

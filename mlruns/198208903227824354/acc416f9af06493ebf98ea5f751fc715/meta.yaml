@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/198208903227824354/acc416f9af06493ebf98ea5f751fc715/artifacts
+end_time: 1743088330556
+entry_point_name: ''
+experiment_id: '198208903227824354'
+lifecycle_stage: active
+run_id: acc416f9af06493ebf98ea5f751fc715
+run_name: silent-gnat-785
+run_uuid: acc416f9af06493ebf98ea5f751fc715
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743088330541
+status: 3
+tags: []
+user_id: abishekkumaryadav

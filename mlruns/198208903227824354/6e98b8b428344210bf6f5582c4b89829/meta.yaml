@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/198208903227824354/6e98b8b428344210bf6f5582c4b89829/artifacts
+end_time: 1743087775844
+entry_point_name: ''
+experiment_id: '198208903227824354'
+lifecycle_stage: active
+run_id: 6e98b8b428344210bf6f5582c4b89829
+run_name: clumsy-turtle-269
+run_uuid: 6e98b8b428344210bf6f5582c4b89829
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743087775827
+status: 3
+tags: []
+user_id: abishekkumaryadav

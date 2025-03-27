@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/198208903227824354/adf068ffc4574396bfc4d53ef7032a68/artifacts
+end_time: 1743088564052
+entry_point_name: ''
+experiment_id: '198208903227824354'
+lifecycle_stage: active
+run_id: adf068ffc4574396bfc4d53ef7032a68
+run_name: amazing-frog-38
+run_uuid: adf068ffc4574396bfc4d53ef7032a68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743088564035
+status: 3
+tags: []
+user_id: abishekkumaryadav

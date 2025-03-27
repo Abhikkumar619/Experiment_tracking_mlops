@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/198208903227824354/ca48aa98a64e447e9164d01ce10c70d3/artifacts
+end_time: 1743087970715
+entry_point_name: ''
+experiment_id: '198208903227824354'
+lifecycle_stage: active
+run_id: ca48aa98a64e447e9164d01ce10c70d3
+run_name: mercurial-owl-255
+run_uuid: ca48aa98a64e447e9164d01ce10c70d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743087970699
+status: 3
+tags: []
+user_id: abishekkumaryadav

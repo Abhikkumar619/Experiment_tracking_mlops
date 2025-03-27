@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/966842902229053870/9f12237275854c9a91826d2dbf7470c1/artifacts
+end_time: 1743071996940
+entry_point_name: ''
+experiment_id: '966842902229053870'
+lifecycle_stage: active
+run_id: 9f12237275854c9a91826d2dbf7470c1
+run_name: sedate-mink-584
+run_uuid: 9f12237275854c9a91826d2dbf7470c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743071993197
+status: 3
+tags: []
+user_id: abishekkumaryadav

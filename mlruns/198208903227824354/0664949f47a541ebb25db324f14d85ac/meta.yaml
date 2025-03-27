@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/198208903227824354/0664949f47a541ebb25db324f14d85ac/artifacts
+end_time: 1743087775989
+entry_point_name: ''
+experiment_id: '198208903227824354'
+lifecycle_stage: active
+run_id: 0664949f47a541ebb25db324f14d85ac
+run_name: enthused-carp-474
+run_uuid: 0664949f47a541ebb25db324f14d85ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743087775926
+status: 3
+tags: []
+user_id: abishekkumaryadav

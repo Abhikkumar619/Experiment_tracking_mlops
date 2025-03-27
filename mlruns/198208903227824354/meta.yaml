@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/198208903227824354
+creation_time: 1743087286258
+experiment_id: '198208903227824354'
+last_update_time: 1743087286258
+lifecycle_stage: active
+name: Hypertuneing_experiment

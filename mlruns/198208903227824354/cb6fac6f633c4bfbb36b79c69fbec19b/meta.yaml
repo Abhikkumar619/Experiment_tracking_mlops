@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/198208903227824354/cb6fac6f633c4bfbb36b79c69fbec19b/artifacts
+end_time: 1743087291382
+entry_point_name: ''
+experiment_id: '198208903227824354'
+lifecycle_stage: active
+run_id: cb6fac6f633c4bfbb36b79c69fbec19b
+run_name: invincible-rat-454
+run_uuid: cb6fac6f633c4bfbb36b79c69fbec19b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743087286491
+status: 3
+tags: []
+user_id: abishekkumaryadav

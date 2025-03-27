@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/198208903227824354/4de2aefc8b404df88aa3456a2157a076/artifacts
+end_time: 1743087776130
+entry_point_name: ''
+experiment_id: '198208903227824354'
+lifecycle_stage: active
+run_id: 4de2aefc8b404df88aa3456a2157a076
+run_name: chill-wasp-899
+run_uuid: 4de2aefc8b404df88aa3456a2157a076
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743087776115
+status: 3
+tags: []
+user_id: abishekkumaryadav

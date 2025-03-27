@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/198208903227824354/e03d0df94fd446dc9b5ea075e1003def/artifacts
+end_time: 1743087970615
+entry_point_name: ''
+experiment_id: '198208903227824354'
+lifecycle_stage: active
+run_id: e03d0df94fd446dc9b5ea075e1003def
+run_name: crawling-stag-197
+run_uuid: e03d0df94fd446dc9b5ea075e1003def
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743087970599
+status: 3
+tags: []
+user_id: abishekkumaryadav

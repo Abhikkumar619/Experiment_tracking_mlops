@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/198208903227824354/82b799409f4e475cbcdce3aaf83ff50d/artifacts
+end_time: 1743087776107
+entry_point_name: ''
+experiment_id: '198208903227824354'
+lifecycle_stage: active
+run_id: 82b799409f4e475cbcdce3aaf83ff50d
+run_name: gregarious-smelt-72
+run_uuid: 82b799409f4e475cbcdce3aaf83ff50d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743087776091
+status: 3
+tags: []
+user_id: abishekkumaryadav

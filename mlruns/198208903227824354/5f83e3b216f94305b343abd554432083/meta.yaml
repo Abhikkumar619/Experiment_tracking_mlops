@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/198208903227824354/5f83e3b216f94305b343abd554432083/artifacts
+end_time: 1743088330651
+entry_point_name: ''
+experiment_id: '198208903227824354'
+lifecycle_stage: active
+run_id: 5f83e3b216f94305b343abd554432083
+run_name: adaptable-gull-814
+run_uuid: 5f83e3b216f94305b343abd554432083
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743088330635
+status: 3
+tags: []
+user_id: abishekkumaryadav

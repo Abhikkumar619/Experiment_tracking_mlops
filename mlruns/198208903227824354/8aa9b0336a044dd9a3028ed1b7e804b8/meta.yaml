@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/198208903227824354/8aa9b0336a044dd9a3028ed1b7e804b8/artifacts
+end_time: 1743088330410
+entry_point_name: ''
+experiment_id: '198208903227824354'
+lifecycle_stage: active
+run_id: 8aa9b0336a044dd9a3028ed1b7e804b8
+run_name: lyrical-vole-175
+run_uuid: 8aa9b0336a044dd9a3028ed1b7e804b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743088330394
+status: 3
+tags: []
+user_id: abishekkumaryadav

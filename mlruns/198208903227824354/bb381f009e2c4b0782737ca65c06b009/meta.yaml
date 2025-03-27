@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/198208903227824354/bb381f009e2c4b0782737ca65c06b009/artifacts
+end_time: 1743087775869
+entry_point_name: ''
+experiment_id: '198208903227824354'
+lifecycle_stage: active
+run_id: bb381f009e2c4b0782737ca65c06b009
+run_name: efficient-asp-900
+run_uuid: bb381f009e2c4b0782737ca65c06b009
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743087775852
+status: 3
+tags: []
+user_id: abishekkumaryadav

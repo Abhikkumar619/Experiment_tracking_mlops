@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/198208903227824354/f78b2ba426af4711924dee79898ad29d/artifacts
+end_time: 1743088330533
+entry_point_name: ''
+experiment_id: '198208903227824354'
+lifecycle_stage: active
+run_id: f78b2ba426af4711924dee79898ad29d
+run_name: thoughtful-loon-336
+run_uuid: f78b2ba426af4711924dee79898ad29d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743088330516
+status: 3
+tags: []
+user_id: abishekkumaryadav

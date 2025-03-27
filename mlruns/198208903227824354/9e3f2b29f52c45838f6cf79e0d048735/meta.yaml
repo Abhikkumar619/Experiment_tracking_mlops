@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/198208903227824354/9e3f2b29f52c45838f6cf79e0d048735/artifacts
+end_time: 1743087397085
+entry_point_name: ''
+experiment_id: '198208903227824354'
+lifecycle_stage: active
+run_id: 9e3f2b29f52c45838f6cf79e0d048735
+run_name: thoughtful-wren-867
+run_uuid: 9e3f2b29f52c45838f6cf79e0d048735
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743087397071
+status: 4
+tags: []
+user_id: abishekkumaryadav

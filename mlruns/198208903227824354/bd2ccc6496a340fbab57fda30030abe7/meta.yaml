@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/198208903227824354/bd2ccc6496a340fbab57fda30030abe7/artifacts
+end_time: 1743088568153
+entry_point_name: ''
+experiment_id: '198208903227824354'
+lifecycle_stage: active
+run_id: bd2ccc6496a340fbab57fda30030abe7
+run_name: enchanting-hawk-329
+run_uuid: bd2ccc6496a340fbab57fda30030abe7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743088559025
+status: 3
+tags: []
+user_id: abishekkumaryadav

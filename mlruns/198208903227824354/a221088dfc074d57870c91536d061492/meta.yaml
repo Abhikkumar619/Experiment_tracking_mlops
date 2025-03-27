@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/198208903227824354/a221088dfc074d57870c91536d061492/artifacts
+end_time: 1743087775894
+entry_point_name: ''
+experiment_id: '198208903227824354'
+lifecycle_stage: active
+run_id: a221088dfc074d57870c91536d061492
+run_name: enthused-swan-708
+run_uuid: a221088dfc074d57870c91536d061492
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743087775877
+status: 3
+tags: []
+user_id: abishekkumaryadav

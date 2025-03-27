@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/198208903227824354/e9a3827ade844b61b23330f3e0c216ca/artifacts
+end_time: 1743087529568
+entry_point_name: ''
+experiment_id: '198208903227824354'
+lifecycle_stage: active
+run_id: e9a3827ade844b61b23330f3e0c216ca
+run_name: worried-hare-768
+run_uuid: e9a3827ade844b61b23330f3e0c216ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743087529553
+status: 4
+tags: []
+user_id: abishekkumaryadav

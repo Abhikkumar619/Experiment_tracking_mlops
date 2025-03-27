@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/198208903227824354/cd6ee056d6a2488fbb65c60ca245ca03/artifacts
+end_time: 1743088330508
+entry_point_name: ''
+experiment_id: '198208903227824354'
+lifecycle_stage: active
+run_id: cd6ee056d6a2488fbb65c60ca245ca03
+run_name: resilient-smelt-925
+run_uuid: cd6ee056d6a2488fbb65c60ca245ca03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743088330493
+status: 3
+tags: []
+user_id: abishekkumaryadav

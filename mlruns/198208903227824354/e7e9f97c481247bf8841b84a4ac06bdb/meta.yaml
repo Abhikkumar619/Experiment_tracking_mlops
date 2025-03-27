@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/198208903227824354/e7e9f97c481247bf8841b84a4ac06bdb/artifacts
+end_time: 1743088564106
+entry_point_name: ''
+experiment_id: '198208903227824354'
+lifecycle_stage: active
+run_id: e7e9f97c481247bf8841b84a4ac06bdb
+run_name: powerful-shad-829
+run_uuid: e7e9f97c481247bf8841b84a4ac06bdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743088564089
+status: 3
+tags: []
+user_id: abishekkumaryadav
