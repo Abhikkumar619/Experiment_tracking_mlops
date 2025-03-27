@@ -34,3 +34,17 @@ This repo has complete demonstration of performing experiment tracking using MLf
 
 
 
+# Experiment Tracking in remote server using Daghub
+
+- MLflow tracking ui : https://dagshub.com/Abhikkumar619/Experiment_tracking_mlops.mlflow
+
+import dagshub
+dagshub.init(repo_owner='Abhikkumar619', repo_name='Experiment_tracking_mlops', mlflow=True)
+
+import mlflow
+with mlflow.start_run():
+  mlflow.log_param('parameter name', 'value')
+  mlflow.log_metric('metric name', 1)
+
+
+
